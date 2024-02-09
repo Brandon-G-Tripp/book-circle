@@ -1,0 +1,19 @@
+{
+  "name": "frontend",
+  "type": "module",
+  "scripts": {
+    "dev": "vinxi dev",
+    "build": "vinxi build",
+    "start": "vinxi start"
+  },
+  "dependencies": {
+    "@solidjs/start": "^0.5.4",
+    "axios": "^1.6.7",
+    "solid-app-router": "^0.4.2",
+    "solid-js": "^1.8.14",
+    "vinxi": "^0.2.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
